@@ -1,4 +1,4 @@
-# Implementing on IBKR
+# Implementation on IBKR
 
 ## Roadmap:
 
@@ -10,7 +10,7 @@
 
 1. Alpha test the trading bot on the paper trading account.
 
-Code components:
+## Code components:
 
 A scanner class:
 
